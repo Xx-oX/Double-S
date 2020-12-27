@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Double S</string>
+    <string name="btnScan">搜尋</string>
+    <string name="btnConnect">連線</string>
+</resources>
